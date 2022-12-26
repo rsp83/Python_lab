@@ -4,6 +4,6 @@ Exercise 1
 Exercise 2
     Convert Celsius to Fahrenheit: Write a Python program that asks the user to enter a temperature in Celsius, and then converts and prints the temperature in Fahrenheit.DONE<br>
 Exercise 3
-    Find the largest number: Write a Python program that asks the user to enter three numbers, and then prints the largest of the three numbers.
+    Find the largest number: Write a Python program that asks the user to enter three numbers, and then prints the largest of the three numbers.<br>
 Exercise 4
     Reverse a string: Write a Python program that asks the user to enter a string, and then prints the string in reverse order.
