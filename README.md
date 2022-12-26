@@ -1,6 +1,6 @@
 # Python_lab
 Exercise 1
-    Calculate the area of a rectangle: Write a Python program that asks the user to enter the width and height of a rectangle, and then calculates and prints the area of the rectangle.
+    Calculate the area of a rectangle: Write a Python program that asks the user to enter the width and height of a rectangle, and then calculates and prints the area of the rectangle.\n DONE
 Exercise 2
     Convert Celsius to Fahrenheit: Write a Python program that asks the user to enter a temperature in Celsius, and then converts and prints the temperature in Fahrenheit.
 Exercise 3
