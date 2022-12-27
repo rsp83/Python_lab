@@ -9,10 +9,13 @@ Exercise 4
     Reverse a string: Write a Python program that asks the user to enter a string, and then prints the string in reverse order.done <br>
 
     novos exercicios : <br>
-        Calculate the factorial of a number: Write a Python program that asks the user to enter a number, and then calculates and prints the factorial of that number.
+        5. Calculate the factorial of a number: Write a Python program that asks the user to enter a number, and then calculates and prints the factorial of that number.<BR>
 
-    Calculate the average of a list of numbers: Write a Python program that asks the user to enter a list of numbers, and then calculates and prints the average of those numbers.
+        6.I want to build a programm that puts words in alphabetical order and takes the words from user input rather them an pre build array
 
-    Find the longest word in a sentence: Write a Python program that asks the user to enter a sentence, and then prints the longest word in that sentence.
+    7.Calculate the average of a list of numbers: Write a Python program that asks the user to enter a list of numbers, and then calculates and prints the average of those numbers.<BR>
 
-    Remove duplicates from a list: Write a Python program that asks the user to enter a list of numbers, and then removes any duplicates from the list and prints the resulting list.
+    8.Find the longest word in a sentence: Write a Python program that asks the user to enter a sentence, and then prints the longest word in that sentence.<BR>
+
+    9.Remove duplicates from a list: Write a Python program that asks the user to enter a list of numbers, and then removes any duplicates from the list and prints the resulting list.<BR>
+
