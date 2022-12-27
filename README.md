@@ -11,7 +11,7 @@ Exercise 4
     novos exercicios : <br>
         5. Calculate the factorial of a number: Write a Python program that asks the user to enter a number, and then calculates and prints the factorial of that number.<BR>
 
-        6.I want to build a programm that puts words in alphabetical order and takes the words from user input rather them an pre build array
+        6.I want to build a programm that puts words in alphabetical order and takes the words from user input rather them an pre build array. DONE <BR>
 
     7.Calculate the average of a list of numbers: Write a Python program that asks the user to enter a list of numbers, and then calculates and prints the average of those numbers.<BR>
 
