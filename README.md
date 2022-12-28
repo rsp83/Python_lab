@@ -22,3 +22,13 @@ Exercise 4
 
     9.Remove duplicates from a list: Write a Python program that asks the user to enter a list of numbers, and then removes any duplicates from the list and prints the resulting list.DONE<BR>
 
+    10. Write a Python script that reads a text file and counts the number of words in it. The script should take the file name as an input and print the word count to the console.<br> DONE
+
+    11.Write a Python function that takes a list of integers as an input and returns a new list that contains only the even numbers from the original list. The function should not modify the original list.<br>
+
+    12.Write a Python script that reads a CSV file and calculates the sum of all the values in the second column. The script should take the file name and the column index as inputs and print the sum to the console.<br>
+
+    13.Write a Python function that takes a string as an input and returns a new string with all the vowels removed. The function should be case-insensitive, so that it removes both uppercase and lowercase vowels.<br>
+
+    14.Write a Python script that reads a JSON file and prints the value of a specified key to the console. The script should take the file name and the key name as inputs.<br>
+
