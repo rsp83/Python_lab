@@ -1,4 +1,7 @@
 # Python_lab
+
+> consult the libraty : https://docs.python.org/3/library/
+
 Exercise 1
     Calculate the area of a rectangle: Write a Python program that asks the user to enter the width and height of a rectangle, and then calculates and prints the area of the rectangle. DONE <br>
 Exercise 2
@@ -13,9 +16,9 @@ Exercise 4
 
         6.I want to build a programm that puts words in alphabetical order and takes the words from user input rather them an pre build array. DONE <BR>
 
-    7.Calculate the average of a list of numbers: Write a Python program that asks the user to enter a list of numbers, and then calculates and prints the average of those numbers.<BR>
+    7.Calculate the average of a list of numbers: Write a Python program that asks the user to enter a list of numbers, and then calculates and prints the average of those numbers.DONE<BR>
 
-    8.Find the longest word in a sentence: Write a Python program that asks the user to enter a sentence, and then prints the longest word in that sentence.<BR>
+    8.Find the longest word in a sentence: Write a Python program that asks the user to enter a sentence, and then prints the longest word in that sentence.done<BR>
 
-    9.Remove duplicates from a list: Write a Python program that asks the user to enter a list of numbers, and then removes any duplicates from the list and prints the resulting list.<BR>
+    9.Remove duplicates from a list: Write a Python program that asks the user to enter a list of numbers, and then removes any duplicates from the list and prints the resulting list.DONE<BR>
 
